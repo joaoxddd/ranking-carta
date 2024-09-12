@@ -1,6 +1,6 @@
 # ranking-carta
 
-Sistema de inscrições e gerenciamento de turmas e usuários para exportação.
+Módulos em Python baseados na biblioteca de NLP spaCy que trata semanticamente e sintaticamente a estrutural textual das entradas. Os módulos são combinados para extrair e avaliar as informações de determinadas base de dados em formato de planilha, onde cada atributo desta planilha é submetido a algum dos módulos de avaliação para, por fim, serem definidas notas de avalição com base nas normas da Abep-tic.
 
 ## Índice
 
